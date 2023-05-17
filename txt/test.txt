@@ -1,0 +1,4 @@
+F:/YOLO/yolov7-main/yolo/YOLOv7-Pytorch-Segmentation/data/images/16.jpg
+F:/YOLO/yolov7-main/yolo/YOLOv7-Pytorch-Segmentation/data/images/18.jpg
+F:/YOLO/yolov7-main/yolo/YOLOv7-Pytorch-Segmentation/data/images/19.jpg
+F:/YOLO/yolov7-main/yolo/YOLOv7-Pytorch-Segmentation/data/images/24.jpg
